@@ -1,6 +1,6 @@
 # Pose Detection with MediaPipe
 
-A professional Python implementation for real-time human pose detection and analysis using Google's MediaPipe framework.
+A Python implementation for real-time human pose detection and analysis using Google's MediaPipe framework.
 
 ## Features
 
